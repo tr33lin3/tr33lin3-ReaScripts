@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="tr33lin3-ReaScripts"> commit="58a3e39ba95bd0f35846aa1f39aa4cb2574295e1">
-  <category name="Example">
-    <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+<index version="1" name="tr33lin3-ReaScripts" commit="ede84838a6bd88f4eebf31f1e88f1ab90f402610"> commit="58a3e39ba95bd0f35846aa1f39aa4cb2574295e1"&gt;
+  
+  
+<category name="Example"><reapack name="cfillion_Hello world.lua" type="script" desc="Hello world"><metadata><description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
@@ -14,15 +13,13 @@ Markdown
 }}}
  {\i formatting} is supported.\par}
 }
-]]></description>
-      </metadata>
-      <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
-        <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
-      </version>
-    </reapack>
-  </category>
-  <metadata>
-    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+]]></description></metadata><version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z"><source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source></version></reapack></category><category name="REAGRADIENT"><reapack name="ReaGradient.lua" type="script" desc="Hello world"><metadata><description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script provides a user interface for the REAPER digital audio workstation to define and apply gradient color schemes to tracks and their children based on user-defined rules.\par}
+}
+]]></description></metadata><version name="1.0.0" author="Tr33lin3" time="2024-10-21T22:18:01Z"><source main="main">https://github.com/tr33lin3/tr33lin3-ReaScripts/raw/57082f0146f9ddb440c22f886011d6dfd22e3084/REAGRADIENT/ReaGradient.lua</source></version><version name="1.0" author="Tr33lin3" time="2024-10-21T22:37:15Z"><source main="main">https://github.com/tr33lin3/tr33lin3-ReaScripts/raw/919cd6c46410dcd2d1ffbeec06294b1183cbbc77/REAGRADIENT/ReaGradient.lua</source></version></reapack></category><category name="SHORTCUT_SWITCHER"><reapack name="tr33lin3_Toggle_Shortcut_Switch.lua" type="script" desc="tr33lin3_SHORTCUT_SWITCHER"><version name="0.1" author="tr33lin3" time="2024-10-21T22:48:14Z"><source main="main">https://github.com/tr33lin3/tr33lin3-ReaScripts/raw/c3718b6d258162f0f3246e99bb144613d07550cb/SHORTCUT_SWITCHER/tr33lin3_Toggle_Shortcut_Switch.lua</source><source main="main" file="tr33lin3_Toolbar_Toggle_Keep_Toolbar_1_Open_Toolbar_2.lua.lua">https://github.com/tr33lin3/tr33lin3-ReaScripts/raw/c3718b6d258162f0f3246e99bb144613d07550cb/SHORTCUT_SWITCHER/tr33lin3_Toolbar_Toggle_Keep_Toolbar_1_Open_Toolbar_2.lua.lua</source><source main="main" file="tr33line_Split_Items.lua">https://github.com/tr33lin3/tr33lin3-ReaScripts/raw/c3718b6d258162f0f3246e99bb144613d07550cb/SHORTCUT_SWITCHER/tr33line_Split_Items.lua</source><source main="main" file="tr33line_Trim_Left.lua">https://github.com/tr33lin3/tr33lin3-ReaScripts/raw/c3718b6d258162f0f3246e99bb144613d07550cb/SHORTCUT_SWITCHER/tr33line_Trim_Left.lua</source><source main="main" file="tr33line_Trim_Right.lua">https://github.com/tr33lin3/tr33lin3-ReaScripts/raw/c3718b6d258162f0f3246e99bb144613d07550cb/SHORTCUT_SWITCHER/tr33line_Trim_Right.lua</source><source file="Cfg/tr33lin3_Toggle_Shortcut_Switch.cfg">https://github.com/tr33lin3/tr33lin3-ReaScripts/raw/c3718b6d258162f0f3246e99bb144613d07550cb/SHORTCUT_SWITCHER/Cfg/tr33lin3_Toggle_Shortcut_Switch.cfg</source></version></reapack></category><metadata><description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
@@ -50,6 +47,4 @@ https://github.com/{\f1 <your username>}/{\f1 <repository name>}/raw/master/inde
 }}}
 .\par}
 }
-]]></description>
-  </metadata>
-</index>
+]]></description></metadata></index>
