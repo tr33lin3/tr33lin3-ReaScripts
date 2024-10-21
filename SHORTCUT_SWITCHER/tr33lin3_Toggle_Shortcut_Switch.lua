@@ -1,3 +1,12 @@
+--[[
+Description: tr33lin3_SHORTCUT_SWITCHER
+Version: 0.1
+Author: tr33lin3
+Provides:
+    [main] *.lua
+    **/*.cfg
+--]]
+
 -- File path for storing workflow status
 local config_file_path = reaper.GetResourcePath() .. "/Scripts/tr33lin3-ReaScripts/Cfg/tr33lin3_Toggle_Shortcut_Switch.cfg"
 
