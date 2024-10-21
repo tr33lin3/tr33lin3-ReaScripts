@@ -1,48 +1,9 @@
---[[
-    ReaGradientCfg.lua
-    Version: 1.0.0
-    Author: Tr33lin3
-    Contact: treeline.audio@gmail.com
-    License: [License Type]
-
-    Description:
-    This script provides a user interface for the REAPER digital audio workstation to define and apply gradient color schemes to tracks and their children based on user-defined rules.
-
-    Features:
-    - Create, edit, and delete gradient color rules.
-    - Apply gradients to tracks based on keywords and match types.
-    - Save and load configurations for different projects or workflows.
-    - Drag and drop color assignment for convenience and speed.
-    - Move rules up and down in the priority list to refine gradient application.
-
-    How to Use:
-    1. Launch the script from the Actions menu in REAPER.
-    2. Define your gradient rules, specifying keywords (each rule can have several keywords separated by comma), start/end colors, and match type.
-    3. Configuration is automatically saved and it always loads the last configuration used.
-    4. Apply the gradients to your tracks by clicking the "Apply Gradients" button.
-    5. Adjust your rules and reapply as needed for your project.
-    6. MAX_FACTOR_STEP variable in this script is limiting the maximum difference between two consecutive colors. You can adjust to taste.
-    7. If you don't need to to edit any rules you can directly apply the last loaded rules with ReaGradient.lua
-
-    Requirements:
-    - SWS/S&M extension
-    - This script uses the `reaImGui` library for its graphical user interface
-
-    Installation:
-    Place the ReaGradientCfg.lua script in the REAPER Scripts directory, typically found at:
-    - Windows: %APPDATA%\REAPER\Scripts\
-    - macOS: ~/Library/Application Support/REAPER/Scripts/
-
-    Config files with name ReaGradient_'config name'.cfg should be placed here:
-    - Windows: %APPDATA%\REAPER\
-    - macOS: ~/Library/Application Support/REAPER/
-
-
-    Make sure you have the required REAPER version and extensions installed. Load the script from the Actions menu in REAPER to start organizing your tracks visually with gradients.
-
-    Changelog:
-    - v1.0.0: Initial release.
-]]
+-- @description Hello world
+-- @author Tr33lin3
+-- @version 1.0
+-- @about
+--   This script provides a user interface for the REAPER digital audio workstation to define
+--   and apply gradient color schemes to tracks and their children based on user-defined rules.
 
 -- The script begins here...
 
