@@ -1,3 +1,4 @@
+-- @noindex
 -- Function to open a specific toolbar and close the others (except toolbar 1)
 function openToolbarAndCloseOthersExceptToolbar1(toolbarIndex)
     -- Open the specified toolbar

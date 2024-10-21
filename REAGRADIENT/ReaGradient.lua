@@ -4,7 +4,6 @@ Version: 0.1
 Author: tr33lin3
 Provides:
     [main] *.lua
-    **/*.dat
 About:
     This script provides a user interface for the REAPER digital audio workstation to define
     and apply gradient color schemes to tracks and their children based on user-defined rules.

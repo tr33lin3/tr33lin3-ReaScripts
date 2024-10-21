@@ -1,3 +1,4 @@
+-- @noindex
 -- File path for storing workflow status
 local config_dir_path = reaper.GetResourcePath() .. "/Scripts/tr33lin3-ReaScripts/Cfg/"
 local config_file_path = config_dir_path .. "tr33lin3_Toggle_Shortcut_Switch.cfg"
