@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="tr33lin3-ReaScripts" commit="ee1a512bd0499d4c8b1054d945225f8df857ea0a">
+<index version="1" name="tr33lin3-ReaScripts" commit="2f0d367b48f980f8400aef05d34147288febf6bd">
   <category name="REAGRADIENT">
-    <reapack name="ReaGradient.lua" type="script" desc="Hello world">
+    <reapack name="ReaGradient.lua" type="script" desc="tr33lin3_REAGRADIENT">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -13,6 +13,10 @@
       </metadata>
       <version name="1.0.0" author="Tr33lin3" time="2024-10-21T22:18:01Z">
         <source main="main">https://github.com/tr33lin3/tr33lin3-ReaScripts/raw/57082f0146f9ddb440c22f886011d6dfd22e3084/REAGRADIENT/ReaGradient.lua</source>
+      </version>
+      <version name="0.0.1" author="tr33lin3" time="2024-10-22T21:44:40Z">
+        <source main="main">https://github.com/tr33lin3/tr33lin3-ReaScripts/raw/2f0d367b48f980f8400aef05d34147288febf6bd/REAGRADIENT/ReaGradient.lua</source>
+        <source file="ReaGradientCfg.lua">https://github.com/tr33lin3/tr33lin3-ReaScripts/raw/2f0d367b48f980f8400aef05d34147288febf6bd/REAGRADIENT/ReaGradientCfg.lua</source>
       </version>
     </reapack>
   </category>
