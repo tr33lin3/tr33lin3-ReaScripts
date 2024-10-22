@@ -35,9 +35,6 @@ Markdown
       <version name="1.0.0" author="Tr33lin3" time="2024-10-21T22:18:01Z">
         <source main="main">https://github.com/tr33lin3/tr33lin3-ReaScripts/raw/57082f0146f9ddb440c22f886011d6dfd22e3084/REAGRADIENT/ReaGradient.lua</source>
       </version>
-      <version name="1.0" author="Tr33lin3" time="2024-10-21T22:37:15Z">
-        <source main="main">https://github.com/tr33lin3/tr33lin3-ReaScripts/raw/919cd6c46410dcd2d1ffbeec06294b1183cbbc77/REAGRADIENT/ReaGradient.lua</source>
-      </version>
     </reapack>
   </category>
   <category name="SHORTCUT_SWITCHER">
