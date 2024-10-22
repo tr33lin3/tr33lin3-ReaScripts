@@ -1,9 +1,10 @@
 --[[
 Description: tr33lin3_REAGRADIENT
-Version: 0.1
+Version: 0.0.1
 Author: tr33lin3
 Provides:
-    [main] *.lua
+    ReaGradient.lua
+    ReaGradientCfg.lua
 About:
     This script provides a user interface for the REAPER digital audio workstation to define
     and apply gradient color schemes to tracks and their children based on user-defined rules.
